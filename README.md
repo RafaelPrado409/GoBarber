@@ -13,6 +13,7 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-316192?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white)
 
 <img src="https://i.imgur.com/JfSkDs0.png" alt="ecoleta">
 
